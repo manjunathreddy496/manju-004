@@ -47,7 +47,7 @@ src/
 ├── store/               # Zustand state management
 ├── types/               # TypeScript definitions
 └── utils/               # Utility functions
-🔧 Custom Hooks
+custom Hooks
 useDebounce: Optimizes search performance by delaying execution
 useVirtualList: Implements efficient virtual scrolling for large datasets
  State Management
